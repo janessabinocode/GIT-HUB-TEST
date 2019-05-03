@@ -31,7 +31,7 @@ namespace curso {
 
         Console.WriteLine("Dia da semana: " + dia);
         Console.ReadLine();
-
+ERRROOOO
         }
     }
 }
